@@ -3,3 +3,6 @@
 ################################################################################
 
 /bin
+/obj/Debug
+/.vs/ProyectoFinal/v16
+/.vs/ProyectoFinal/config
