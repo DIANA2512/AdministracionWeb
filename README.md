@@ -1,4 +1,3 @@
-
 # SISTEMA WEB
 # CONTROL DE INVENTARIOS
 
@@ -88,4 +87,3 @@ El usuario con perfil cajero puede actualizar cierta información personal
 En el siguiente link se encuentra toda la información como Manual Técnico y video explicativo
 [Documentacion](https://github.com/DIANA2512/Documentacion_Tesis.git)
 
-  
